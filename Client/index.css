@@ -7,5 +7,10 @@
 /* ---Foundation --- */
 @import "./src/css/foundation/common.css";
 
+/* --- Components --- */
+@import "./src/css/components/Button.css";
+@import "./src/css/components/Profile.css";
+@import "./src/css/components/Search.css";
+
 /* --- Frames --- */
 @import "./src/css/frames/nav/nav.css";
