@@ -6,3 +6,6 @@
 
 /* ---Foundation --- */
 @import "./src/css/foundation/common.css";
+
+/* --- Frames --- */
+@import "./src/css/frames/nav/nav.css";
