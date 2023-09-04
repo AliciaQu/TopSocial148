@@ -1,0 +1,8 @@
+@import "normalize.css";
+
+ /* --- Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Reem+Kufi+Fun&display=swap');
+
+
+/* ---Foundation --- */
+@import "./src/css/foundation/common.css";
