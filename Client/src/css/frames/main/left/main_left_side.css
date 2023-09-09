@@ -1,0 +1,30 @@
+.main_left.sidebar {
+  background-color: var(--left-profile-background-color);
+  border-radius: var(--left-profile-radius);
+
+}
+
+.main_left.sidebar .menu-item {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 4rem;
+  cursor: pointer;
+  transition: all 300ms ease;
+  
+}
+
+.main_left.sidebar .menu-item:hover {
+  background-color: var(--color-white);
+}
+
+.main_left.sidebar i {
+  position: relative;
+  font-size: 1.4rem;
+  color: var(--color-gray);
+  margin-left: 2rem;
+}
+
+.main_left.sidebar h2 {
+  margin-left: 1.5rem;
+}
