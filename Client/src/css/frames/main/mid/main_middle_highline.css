@@ -1,0 +1,13 @@
+:root {
+  --middle-highline-padding:1rem;
+  --middle-highline-border-radius: 1rem;
+
+}
+
+.main-middle .highline {
+  display: flex;
+  justify-content: space-between;
+  height: 12rem;
+  gap: 0.5rem;
+}
+

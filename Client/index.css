@@ -18,3 +18,8 @@
 
 @import "./src/css/frames/main/left/main_left.css";
 @import "./src/css/frames/main/left/main_left_side.css";
+
+@import "./src/css/frames/main/mid/main_middle.css";
+@import "./src/css/frames/main/mid/main_middle_card.css";
+@import "./src/css/frames/main/mid/main_middle_highline.css";
+@import "./src/css/frames/main/mid/main_middle_post.css";
