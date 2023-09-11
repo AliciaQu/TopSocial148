@@ -11,3 +11,25 @@
   gap: 0.5rem;
 }
 
+.main-middle .highline .description {
+  width:100%;
+  position: relative;
+  padding: var(--middle-highline-padding);
+  border-radius: var(--middle-highline-border-radius);
+  display: flex;
+  flex-direction:column;
+  justify-content:space-between;
+  align-items: center;
+  overflow:hidden;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.main-middle .highline .description p {
+  color:#fff;
+  font-size: 0.7rem;
+  z-index: 1;
+
+}
